@@ -1,8 +1,5 @@
 <script>
-  import Menu from './components/Menu.svelte'
+  import Menu from './components/Lista.svelte'
 </script>
 
-<main>
-  <Menu />
-  <div class="welcome">Welcome</div>
-</main>
+<main />
