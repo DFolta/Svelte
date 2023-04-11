@@ -1,0 +1,32 @@
+{
+  "uzytkownicy": [
+    {
+      "id": 1,
+      "name": "John",
+      "avatar": "https://ui-avatars.com/api/?name=J",
+      "email": "uzytkownik1@example.com",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Michael",
+      "avatar": "https://ui-avatars.com/api/?name=M",
+      "email": "uzytkownik2@example.com",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Hana",
+      "avatar": "https://ui-avatars.com/api/?name=H",
+      "email": "uzytkownik3@example.com",
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Anna",
+      "avatar": "https://ui-avatars.com/api/?name=A",
+      "email": "uzytkownik4@example.com",
+      "active": true
+    }
+  ]
+}
