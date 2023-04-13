@@ -18,13 +18,11 @@
   let isOpen = true
 
   function deleteUser(id) {
-    console.log(id)
     users = users.filter((user) => user.id !== id)
     refreshTable()
   }
 
   const filterUsers = (option) => {
-    console.log(option)
     selectedOption = option
     refreshTable()
   }
